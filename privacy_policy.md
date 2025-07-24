@@ -4,7 +4,7 @@ _Last updated: 2025-07-24
 
 ## 1. Introduction
 
-1.1. This Privacy Policy describes how [Owner Name] ("we," "us," or "our") collects, uses, discloses, and protects information obtained from Users ("you," "your") through the Moonsec v3 Deobfuscator Bot ("Service" or "Bot").
+1.1. This Privacy Policy describes how PeterBerry1 ("we," "us," or "our") collects, uses, discloses, and protects information obtained from Users ("you," "your") through the Moonsec v3 Deobfuscator Bot ("Service" or "Bot").
 
 1.2. By accessing or using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
@@ -591,9 +591,9 @@ _Last updated: 2025-07-24
 
 72.1. The Data Controller responsible for processing your personal data is:
 
-- [Owner Name]  
-- Email: [Insert Email]  
-- Address: [Insert Address]
+- PeterBerry1
+- Discord: `andrew_lucas_` (User ID: `123456789012345678`)
+- GitHub: https://github.com/PeterBerry1
 
 ---
 
