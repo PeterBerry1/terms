@@ -15,3 +15,5 @@ Since we can know, if you created the invite-link, this will be used to prevent 
 Here is how to redeem your coins, after you manage to get people to join from your invite-link and want to redeem your coins.
 
 The command `invite-claim` we will check every single invite, and when MoonPool-V1 spot a change in numbers, MoonPool-V1 would give you the coins accordingly.
+
+But if you delete a invite-link you made, or it expires, it may mess up MoonPool-V1.
