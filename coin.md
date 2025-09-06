@@ -14,4 +14,4 @@ Since we can know, if you created the invite-link, this will be used to prevent 
 
 Here is how to redeem your coins, after you manage to get people to join from your invite-link and want to redeem your coins.
 
-The command `invite-claim https://discord.gg/AoajOwknI` where you replace https://discord.gg/AoajOwknI with your invite-link instead, and now when you send this to MoonPool-1 will check how many people joined from your invite-link, and give you 25 coins for how many people that joined from your invite-link.
+The command `invite-claim https://discord.gg/AoajOwknI` where you replace https://discord.gg/AoajOwknI with your invite-link instead, and now when you send this to MoonPool-1, MoonPool-1 will check how many people joined from your invite-link, and give you 25 coins for how many people that joined from your invite-link.
